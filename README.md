@@ -71,10 +71,10 @@ If you clone this project from GitHub, follow these steps:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/AyushParmarMonarchy/laravel_react_project_setup.git
 
 # 2. Move into project
-cd your-repo-name
+cd laravel_react_project_setup
 
 # 3. Install PHP dependencies
 composer install
